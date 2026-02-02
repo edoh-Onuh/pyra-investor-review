@@ -1,10 +1,10 @@
 # Investor Review: Pyra
 
-**Date:** January 20, 2026  
+**Date:** February 2, 2026  
 **Sector:** Consumer DeFi / Fintech  
 **Stage:** Pre-Seed  
 **Deal Status:** ✅ Recommended for Investment  
-**Analyst:** Adanu Brown (@Adanubrown)
+**Analyst:** John Onuh 
 
 ---
 
